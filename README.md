@@ -64,7 +64,3 @@ python coinmarketcap_json.py    # JSON approach
 
 The JSON API approach significantly outperforms HTML scraping:
 
-| Metric | HTML Scraper | JSON API |
-|--------|-------------|----------|
-| Time | ~8-12 seconds | ~2-3 seconds |
-
